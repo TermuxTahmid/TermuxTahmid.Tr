@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-TALHA="Tr. Tahmid-"
-imt="-Busra4786=="
-ak="Lover-"
+TALHA="Tr.Tahmid-"
+imt="-Risha0210=="
+ak="Tahmid"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrTr. Tahmid-cov', 'r').read()
@@ -1316,7 +1316,7 @@ def Subscraption():
 		print(logo)
 		print ("")
 		print(" \033[1;32m Tr. Tahmid Toll Paid You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;32m Note : Paid Tolls Free  HA JANI LOG \033[1;37m")
+		print(" \033[1;32m Note : Paid Tolls Free  TAHMID XHOWDHURY \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
