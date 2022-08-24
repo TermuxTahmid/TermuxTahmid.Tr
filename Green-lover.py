@@ -1302,7 +1302,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrTr. Tahmid-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/TermuxTahmid/tahmid123-approval.txt.git").text
+	r1=requests.get("https://github.com/TermuxTahmid/tahmid123-approval.txt/blob/main/tahmid123.approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
