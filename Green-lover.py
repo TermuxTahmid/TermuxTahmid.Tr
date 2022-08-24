@@ -86,7 +86,7 @@ def back():
 
 TALHA="Tr.Tahmid-"
 imt="-Risha0210=="
-ak="Tahmid"
+ak="Tahmid-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrTr. Tahmid-cov', 'r').read()
