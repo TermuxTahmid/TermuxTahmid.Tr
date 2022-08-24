@@ -1329,7 +1329,7 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
-		os.system('am start https://wa.me/+44 7520 674933?text=' + tks)
+		os.system('am start https://wa.me/+447520674933?text=' + tks)
 		Subscraption()        
 
 Subscraption()
